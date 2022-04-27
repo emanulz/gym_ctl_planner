@@ -1,26 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T16:22:46.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="AP6KZVyy94E8mvGjTSTh" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-27T02:24:51.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MzwLuAQ5oB3eXg0UcX-k" version="17.4.6" type="github">
   <diagram id="x3NzBZNxcZTpQ1vrpnvu" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-1" value="BACKEND&lt;br&gt;NODEJS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="180" height="180" as="geometry" />
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-1" value="NODE JS&lt;br&gt;REST(GRAPHQL)&lt;br&gt;API" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="360" y="245" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-2" value="WEB&amp;nbsp;&lt;br&gt;NEXT JS&lt;br&gt;REACT&lt;br&gt;HOOKS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-2" value="WEB&amp;nbsp;&lt;br&gt;NEXT JS&lt;br&gt;REACT&lt;br&gt;HOOKS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="100" y="160" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-3" value="MOBILE&lt;br&gt;REACT NATIVE" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-3" value="MOBILE&lt;br&gt;REACT NATIVE&lt;br&gt;(FLUTTER YET TO DECIDE)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="100" y="370" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-4" value="DB&lt;br&gt;FIREBASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="375" y="375" width="150" height="170" as="geometry" />
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-4" value="DB&lt;br&gt;FIREBASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-6" value="NEXTJS BACKEND" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-6" value="NEXTJS BACKEND" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="110" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-8" value="DB&lt;br&gt;MONGODB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="165" width="150" height="170" as="geometry" />
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-8" value="DB&lt;br&gt;MONGODB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="620" y="255" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="45i4qmXUu39TKB9Uq_cI-1" value="MICRO SERVICES&lt;br&gt;(TO DEFINE)&lt;br&gt;GRPC COMUNICATION" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="355" y="450" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

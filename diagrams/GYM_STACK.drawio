@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T02:24:51.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="MzwLuAQ5oB3eXg0UcX-k" version="17.4.6" type="github">
-  <diagram id="x3NzBZNxcZTpQ1vrpnvu" name="Page-1">
-    <mxGraphModel dx="946" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-10-18T23:46:44.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8I-P3FEE5Z-OWluUMBQv" version="17.4.6" type="github" pages="2">
+  <diagram id="x3NzBZNxcZTpQ1vrpnvu" name="React Alternative">
+    <mxGraphModel dx="1426" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,46 @@
         <mxCell id="TWxX8gXJcYfMCjZt2LJU-8" value="DB&lt;br&gt;MONGODB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="620" y="255" width="150" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="45i4qmXUu39TKB9Uq_cI-1" value="MICRO SERVICES&lt;br&gt;(TO DEFINE)&lt;br&gt;GRPC COMUNICATION" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="45i4qmXUu39TKB9Uq_cI-1" value="MICRO SERVICES&lt;br&gt;(TO DEFINE)&lt;br&gt;GRPC COMUNICATION" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="355" y="450" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Blazor Alternative" id="Y2TaGBKHKHRG3-GV48pp">
+    <mxGraphModel dx="1426" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-0" />
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-1" parent="3dPY_2HfxJQeCn0-KGAW-0" />
+        <mxCell id="gasyf03a9yu1G8grFv1T-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3dPY_2HfxJQeCn0-KGAW-1" source="3dPY_2HfxJQeCn0-KGAW-2" target="3dPY_2HfxJQeCn0-KGAW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-2" value="NET CORE API&lt;br&gt;VALIDATES TOKENS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="350" y="252.5" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-3" value="BLAZOR&lt;br&gt;WASM&lt;br&gt;UI REQUEST TO&lt;br&gt;BLAZOR SERVER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="121.25" y="430" width="157.5" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-5" value="AUTH&lt;br&gt;USERS DB&lt;br&gt;FIREBASE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="125" y="60" width="150" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gasyf03a9yu1G8grFv1T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3dPY_2HfxJQeCn0-KGAW-1" source="3dPY_2HfxJQeCn0-KGAW-6" target="3dPY_2HfxJQeCn0-KGAW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gasyf03a9yu1G8grFv1T-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3dPY_2HfxJQeCn0-KGAW-1" source="3dPY_2HfxJQeCn0-KGAW-6" target="3dPY_2HfxJQeCn0-KGAW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gasyf03a9yu1G8grFv1T-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3dPY_2HfxJQeCn0-KGAW-1" source="3dPY_2HfxJQeCn0-KGAW-6" target="3dPY_2HfxJQeCn0-KGAW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-6" value="BLAZOR BACKEND&lt;br&gt;AUTH DONE TROUGH THIS&lt;br&gt;HHTP ONLY COOKIE&lt;br&gt;&lt;br&gt;ALL REQUEST TO BACKEND&lt;br&gt;DONE HERE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="110" y="260" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-7" value="DB&lt;br&gt;MONGODB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="550" y="235" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="3dPY_2HfxJQeCn0-KGAW-8" value="MICRO SERVICES&lt;br&gt;(TO DEFINE)&lt;br&gt;GRPC COMUNICATION?" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="3dPY_2HfxJQeCn0-KGAW-1">
+          <mxGeometry x="460" y="10" width="180" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

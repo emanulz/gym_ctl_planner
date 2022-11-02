@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T18:57:25.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="8n6skqc2TEpsg8B6Ziy5" version="20.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-02T02:16:48.267Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="RzmpDeHiX3Rd6-RMULHS" version="20.5.1" type="github" pages="2">
   <diagram id="x3NzBZNxcZTpQ1vrpnvu" name="React Alternative">
-    <mxGraphModel dx="1426" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="SJg5_xCc7w96RSiMEFbe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="TWxX8gXJcYfMCjZt2LJU-3" target="EaMnpGQ3Wai9uCwgJDCJ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TWxX8gXJcYfMCjZt2LJU-3" value="MOBILE&lt;br&gt;REACT NATIVE&lt;br&gt;(FLUTTER YET TO DECIDE)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="TWxX8gXJcYfMCjZt2LJU-3" value="MOBILE&lt;br&gt;REACT NATIVE / FLUTTER (YET TO DECIDE)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="355" y="25" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="TWxX8gXJcYfMCjZt2LJU-4" value="AUTH SERVICE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
@@ -59,22 +59,22 @@
         <mxCell id="SJg5_xCc7w96RSiMEFbe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" parent="1" source="EaMnpGQ3Wai9uCwgJDCJ-1" target="TWxX8gXJcYfMCjZt2LJU-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jIpJnBMFX3thh-YYDVB8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeColor=default;startArrow=classic;startFill=1;" edge="1" parent="1" source="EaMnpGQ3Wai9uCwgJDCJ-1" target="TWxX8gXJcYfMCjZt2LJU-4">
+        <mxCell id="jIpJnBMFX3thh-YYDVB8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.618;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;strokeColor=default;startArrow=classic;startFill=1;" parent="1" source="EaMnpGQ3Wai9uCwgJDCJ-1" target="TWxX8gXJcYfMCjZt2LJU-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EaMnpGQ3Wai9uCwgJDCJ-1" value="NET CORE API&lt;br&gt;VALIDATES TOKENS" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="355" y="240" width="180" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="jIpJnBMFX3thh-YYDVB8-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;AUTH&lt;/span&gt;&lt;/div&gt;NEXT JS AUTH&amp;nbsp;https://next-auth.js.org/&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="jIpJnBMFX3thh-YYDVB8-1" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;AUTH&lt;/span&gt;&lt;/div&gt;NEXT JS AUTH&amp;nbsp;https://next-auth.js.org/&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="600" y="585" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jIpJnBMFX3thh-YYDVB8-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;TRPC - Type safe for backend frontend&lt;/span&gt;&lt;/div&gt;https://trpc.io/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="jIpJnBMFX3thh-YYDVB8-2" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;TRPC - Type safe for backend frontend&lt;/span&gt;&lt;/div&gt;https://trpc.io/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="600" y="660" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jIpJnBMFX3thh-YYDVB8-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;DB - Planetscale / Prisma&amp;nbsp;&lt;/span&gt;&lt;/div&gt;https://planetscale.com/&lt;br&gt;https://www.prisma.io/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="jIpJnBMFX3thh-YYDVB8-3" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;DB - Planetscale / Prisma&amp;nbsp;&lt;/span&gt;&lt;/div&gt;https://planetscale.com/&lt;br&gt;https://www.prisma.io/" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="600" y="710" width="200" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jIpJnBMFX3thh-YYDVB8-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;ZOD - Type checker next js&lt;/span&gt;&lt;/div&gt;https://giancarlobuomprisco.com/next/protect-next-api-zod" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="jIpJnBMFX3thh-YYDVB8-4" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;ZOD - Type checker next js&lt;/span&gt;&lt;/div&gt;https://giancarlobuomprisco.com/next/protect-next-api-zod" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="600" y="780" width="410" height="50" as="geometry" />
         </mxCell>
       </root>
